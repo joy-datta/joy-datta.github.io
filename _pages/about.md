@@ -14,3 +14,5 @@ redirect_from:
 
 📚 I'm currently working on several research projects on self-supervised methods and cloud height estimation using deep learning. 
 
+🔭 Also, I am always interested in history, philosophy and astronomy. I love to stargaze and smell the air after a drizzle.
+
