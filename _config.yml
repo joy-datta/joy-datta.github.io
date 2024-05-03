@@ -24,7 +24,7 @@ author:
   avatar           : "joy.jpg"
   name             : "Joy Datta"
   pronouns         : # example: "she/her"  
-  bio              : "AI and tech enthusiast with a passion for exploring the unknowns."
+  bio              : "I'm an artificial intelligence and tech enthusiast with a passion for exploring the unknowns."
   location         : "Chattogram, Bangladesh"
   employer         : "Brac University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "joy-datta"
-  kaggle           : "joydatta"  
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
