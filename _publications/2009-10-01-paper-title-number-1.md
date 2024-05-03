@@ -2,11 +2,12 @@
 title: "Deep convolutional GAN-based data augmentation for medical image classification"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The field of medical imaging is rapidly growing with the help of machine learning, yet the problem of scarcity in labeled medical imaging still remains. Therefore training a machine learning model for medical image processing is always a difficult task. Data scarcity can be solved by using data augmentation techniques which produce and add additional data to the existing dataset. Importance of an augmented dataset also includes increasing model prediction accuracy, adding more training data to models, reducing data overfitting and creating variability in data, increasing generalization ability of models, resolving class imbalance issues in classification, and lowering data collection and labeling costs. It also helps train convolutional neural networks for increased average accuracy. This paper focuses on solving data deficiency in medical imaging through the use of an MRI dataset based on Alzheimer’s affected patients. It accomplishes this by employing deep convolutional generative adversarial networks (DCGAN) for generating realistic samples from the dataset. Other approaches for making convincing new images from labeled original images differ from using a deep convolutional generative adversarial network. DCGAN learns from training samples and can generate realistic imaging data with a similar variations, distinct from the original data. We chose to further Alzheimer’s research because, like most neurodegenerative disorders, the clinical diagnosis of Alzheimer’s dementia had a sensitivity of 71% to 87% and a specificity of 44% to 71%, implying high rates of Alzheimer’s Disease misdiagnosis among patients with cognitive impairment. Considering that alarming rate, early diagnosis of Alzheimer’s disease necessitates the use of effective automated approaches.
+'
 date: 2009-10-01
 venue: 'BRAC University'
 paperurl: 'https://dspace.bracu.ac.bd/xmlui/handle/10361/17177'
-citation: 'J. Datta et al. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'J. Datta et al. (2009). &quot;Deep convolutional GAN-based data augmentation for medical image classification&quot; <i>BRAC University</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
