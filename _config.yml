@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Joy Datta"
+title                    : "Joy's Homepage"
 title_separator          : "-"
 name                     : &name "Joy Datta"
 description              : &description "AI portfolio and personal website of Joy Datta"
