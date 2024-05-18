@@ -12,8 +12,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  #- title: "Blog Posts"
+  - title: "Blog"
   #  url: /year-archive/
+    url: https://jdatta.medium.com/
     
   - title: "CV"
     url: /files/cv_.pdf
