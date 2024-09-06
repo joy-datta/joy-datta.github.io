@@ -1,6 +1,6 @@
 ---
 title: "<a href='https://github.com/joy-datta/optimization-algorithms' style='color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;' target='_blank'>Optimization algorithms</a>"
-excerpt: "Implementation of gradient descent algorithm.<br/><img src='/images/gif1.gif'>"
+excerpt: "Implementation of gradient descent algorithm.<br/><img src='/images/gif2.gif'>"
 collection: portfolio
 ---
 
