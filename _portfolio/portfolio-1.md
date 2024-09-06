@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://github.com/joy-datta/deep-representation-learning' style='color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;' target='_blank'>Deep representation learning</a>"
+"<a href='https://github.com/joy-datta/deep-representation-learning' style='color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;' target='_blank'>Deep representation learning</a>"
 excerpt: "Deep learning model building meaningful representation space in each layer.<br/><img src='/images/gif1.gif'>"
 collection: portfolio
 ---
