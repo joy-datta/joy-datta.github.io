@@ -1,5 +1,5 @@
 ---
-title:  <a href='https://dspace.bracu.ac.bd/xmlui/handle/10361/17177'>Deep convolutional GAN-based data augmentation for medical image classification
+title:  <a href="https://dspace.bracu.ac.bd/xmlui/handle/10361/17177">Deep convolutional GAN-based data augmentation for medical image classification
 </a>
 collection: publications
 permalink: 'https://dspace.bracu.ac.bd/xmlui/handle/10361/17177'
