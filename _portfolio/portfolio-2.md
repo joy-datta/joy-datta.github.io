@@ -1,6 +1,6 @@
 ---
-title: "Optimization algorithms"
-excerpt: "Implementation of gradient descent algorithm. <br/><img src='/images/gif2.gif'>"
+title: "<a href='https://github.com/yourusername/your-repo' style='color: #0000FF; text-decoration: underline; text-decoration-color: #0000FF;' target='_blank'>Optimization algorithms</a>"
+excerpt: "Implementation of gradient descent algorithm.<br/><img src='/images/gif1.gif'>"
 collection: portfolio
 ---
 
