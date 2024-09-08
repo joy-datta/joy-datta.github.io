@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://github.com/joy-datta/optimization-algorithms'>Optimization algorithms</a>"
+title: Optimization algorithms
 excerpt: "Implementation of gradient descent algorithm.<br/><img src='/images/gif2.gif'>"
 collection: portfolio
 ---
