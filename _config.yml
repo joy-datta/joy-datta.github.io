@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Joy Datta"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Joy Datta"
 description              : &description "An AI enthusiast with a passion for exploring the unknowns"
